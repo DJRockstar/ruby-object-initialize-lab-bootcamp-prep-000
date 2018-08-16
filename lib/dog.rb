@@ -19,3 +19,7 @@ class Dog
     @breeed
   end
 end
+
+mia = Dog.new("Mia")
+mia.name
+mia.breed
