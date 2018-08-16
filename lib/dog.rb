@@ -16,7 +16,7 @@ class Dog
   end
 
   def breed
-    @breeed = "Huskey"
+    @breeed = breed
   end
 end
 
