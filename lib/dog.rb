@@ -20,6 +20,4 @@ class Dog
   end
 end
 
-mia = Dog.new("Mia")
-puts mia.name
-puts mia.breed
+  fido = Dog.new("Fido", "Pug")
