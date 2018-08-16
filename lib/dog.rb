@@ -21,5 +21,5 @@ class Dog
 end
 
 mia = Dog.new("Mia")
-mia.name
-mia.breed
+puts mia.name
+puts mia.breed
